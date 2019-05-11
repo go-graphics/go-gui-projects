@@ -25,6 +25,8 @@ A list of Go GUI projects
 
 [go-sciter](https://github.com/sciter-sdk/go-sciter) is a Golang bindings of Sciter: the Embeddable HTML/CSS/script engine for modern UI development
 
+[go-skia](https://github.com/go101/go-skia) is a Go skia binding based on skia C library through cgo.
+
 [goey](https://bitbucket.org/rj/goey) provides a declarative, cross-platform GUI for the Go language. The range of controls, their supported properties and events, should roughly match what is available in HTML. However, properties and events may be limited to support portability. Additionally, styling of the controls will be limited, with the look of controls matching the native platform.
 
 [gotk3](https://github.com/gotk3/gotk3) provides Go bindings for GTK+3 and dependent projects. 
