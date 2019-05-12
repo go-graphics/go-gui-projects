@@ -83,7 +83,7 @@ core X protocol and many of the X extensions.
 
 ### game development related
 
-Please visit [Awesome go](https://github.com/avelino/awesome-go#game-development) for the list.
+Please visit [Awesome Go](https://github.com/avelino/awesome-go#game-development) for the list.
 
 ### image processing related
 
@@ -91,6 +91,6 @@ The standard Go [image](https://golang.org/pkg/image/) packages.
 
 The [image](https://github.com/golang/image/) repository holds supplementary Go image libraries.
 
-Please visit [Awesome go](https://github.com/avelino/awesome-go#images) for more.
+Please visit [Awesome Go](https://github.com/avelino/awesome-go#images) for more.
 
 
