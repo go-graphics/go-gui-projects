@@ -14,7 +14,11 @@
 
 [gotk3](https://github.com/gotk3/gotk3) provides Go bindings for GTK+3 and dependent projects.
 
+[GXUI](https://github.com/google/gxui) is a Go cross platform UI library.
+
 [qt](https://github.com/therecipe/qt) allows you to write Qt applications entirely in Go and makes deploying them later very easy.
+
+[shiny](https://github.com/golang/exp/tree/master/shiny) is a Go cross platform UI package.
 
 [systray](https://github.com/getlantern/systray) is a cross platfrom Go library to place an icon and menu in the notification area. Tested on Windows 8, Mac OSX, Ubuntu 14.10 and Debian 7.6.
 
@@ -24,8 +28,12 @@
 
 [Walk](https://github.com/lxn/walk) is a "Windows Application Library Kit" for the Go Programming Language.
 
+[w32.go](https://gist.github.com/nathan-osman/18c2e227ad00a223b61c0b3c16d452c3) is a simple example on show to create Windows GUI by using the `syscall` pacakge.
+
 [XGB](https://github.com/BurntSushi/xgb) is the X Go Binding, which is a low-level API to communicate with the
 core X protocol and many of the X extensions.
+
+[xgbutil](https://github.com/BurntSushi/xgbutil) is a utility library designed to work with the X Go Binding.
 
 ### HTML based GUI
 
@@ -41,6 +49,8 @@ core X protocol and many of the X extensions.
 
 ### custom GUI
 
+[duit](https://github.com/mjl-/duit) is a pure go, cross-platform, MIT-licensed ui toolkit for developers.
+
 [Fyne](https://github.com/fyne-io/fyne) is an easy to use UI toolkit and app API written in Go. We use OpenGL (through the go-gl and go-glfw projects) to provide cross platform graphics.
 
 [gi](https://github.com/goki/gi) is a scenegraph-based 2D and 3D GUI / graphics interface (Gi) in Go.
@@ -55,7 +65,7 @@ core X protocol and many of the X extensions.
 
 [imgui-go](https://github.com/inkyblackness/imgui-go) is a Go wrapper for Dear ImGui.
 
-[nk](https://github.com/golang-ui/nuklear) provides Go bindings for nuklear.h.
+[nk](https://github.com/golang-ui/nuklear) provides Go bindings for nuklear.h. (Another one: [nucular](https://github.com/aarzilli/nucular).)
 
 ### 3D graphics and computing API bindings
 
