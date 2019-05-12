@@ -4,8 +4,6 @@
 
 [dlgs](https://github.com/gen2brain/dlgs) is a cross-platform library for displaying dialogs and input boxes.
 
-[Gio](https://git.sr.ht/~eliasnaur/gio) implements portable immediate mode GUI programs in Go. Gio programs run on all the major platforms: iOS/tvOS, Android, Linux (Wayland), macOS, Windows and browsers (Webassembly/WebGL).
-
 [glfw](https://github.com/go-gl/glfw) is a Go bindings for GLFW 3.
 
 [go-mobile](https://github.com/golang/mobile) adds support for mobile platforms (Android and iOS) and provides tools to build mobile applications. (A [Go bindings for OpenGL ES 2.0 and ES 3.0](https://godoc.org/golang.org/x/mobile/gl) is included.)
@@ -46,6 +44,8 @@ core X protocol and many of the X extensions.
 [Fyne](https://github.com/fyne-io/fyne) is an easy to use UI toolkit and app API written in Go. We use OpenGL (through the go-gl and go-glfw projects) to provide cross platform graphics.
 
 [gi](https://github.com/goki/gi) is a scenegraph-based 2D and 3D GUI / graphics interface (Gi) in Go.
+
+[Gio](https://git.sr.ht/~eliasnaur/gio) implements portable immediate mode GUI programs in Go. Gio programs run on all the major platforms: iOS/tvOS, Android, Linux (Wayland), macOS, Windows and browsers (Webassembly/WebGL).
 
 [go-flutter](https://github.com/go-flutter-desktop/go-flutter) is a package that brings Flutter to the desktop.
 
