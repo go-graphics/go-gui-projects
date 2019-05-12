@@ -31,9 +31,9 @@ core X protocol and many of the X extensions.
 
 [go-astilectron](https://github.com/asticode/go-astilectron) helps use build cross platform GUI apps with GO and HTML/JS/CSS. It is the official GO bindings of astilectron and is powered by Electron.
 
-[go-sciter](https://github.com/sciter-sdk/go-sciter) is a Golang bindings of Sciter: the Embeddable HTML/CSS/script engine for modern UI development
+[go-sciter](https://github.com/sciter-sdk/go-sciter) is a Golang bindings of Sciter: the Embeddable HTML/CSS/script engine for modern UI development。
 
-[gowd](https://github.com/dtylman/gowd) help us build cross platform GUI apps with GO and HTML/JS/CSS (powered by nwjs)
+[gowd](https://github.com/dtylman/gowd) help us build cross platform GUI apps with GO and HTML/JS/CSS (powered by nwjs)。
 
 [Wails](https://github.com/wailsapp/wails) is a framework for building desktop applications using Go & Web Technologies.
 
