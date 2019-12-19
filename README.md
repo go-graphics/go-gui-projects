@@ -47,6 +47,8 @@ core X protocol and many of the X extensions.
 
 [webview](https://github.com/zserge/webview) is a tiny cross-platform webview library for C/C++/Golang to build modern cross-platform GUIs.
 
+[Muon](https://github.com/ImVexed/muon) is a lightweight alternative to Electron written in Golang
+
 ### custom GUI
 
 [duit](https://github.com/mjl-/duit) is a pure go, cross-platform, MIT-licensed ui toolkit for developers.
@@ -66,6 +68,8 @@ core X protocol and many of the X extensions.
 [imgui-go](https://github.com/inkyblackness/imgui-go) is a Go wrapper for Dear ImGui.
 
 [nk](https://github.com/golang-ui/nuklear) provides Go bindings for nuklear.h. (Another one: [nucular](https://github.com/aarzilli/nucular).)
+
+[gimu](https://github.com/AllenDang/gimu) is go-style idiomatic wrapper for nuklear for nk.
 
 ### 3D graphics and computing API bindings
 
