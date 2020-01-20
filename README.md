@@ -66,6 +66,7 @@ core X protocol and many of the X extensions.
 [gui](https://github.com/faiface/gui) provides super minimal, rock-solid foundation for concurrent GUI in Go.
 
 [imgui-go](https://github.com/inkyblackness/imgui-go) is a Go wrapper for Dear ImGui.
+* [giu](https://github.com/AllenDang/giu) is a GUI framework based on imgui-go.
 
 [nk](https://github.com/golang-ui/nuklear) provides Go bindings for nuklear.h. (Another one: [nucular](https://github.com/aarzilli/nucular).)
 
