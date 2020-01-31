@@ -11,7 +11,7 @@
 [go-sdl2](https://github.com/veandco/go-sdl2) is SDL2 wrapped for Go users.
 
 [go-gtk](https://github.com/mattn/go-gtk) is a Go binding for GTK2.
-* [RenderView] is an easy Go GUI wrapper for interactive manipulation of visual algorithms/backend code. Support go-gtk (default), gotk3 and shiny backends.
+* [RenderView](https://github.com/TheGrum/renderview) is an easy Go GUI wrapper for interactive manipulation of visual algorithms/backend code. Support go-gtk (default), gotk3 and shiny backends.
 
 [gotk3](https://github.com/gotk3/gotk3) provides Go bindings for GTK+3 and dependent projects.
 
