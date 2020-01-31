@@ -111,7 +111,7 @@ The [image](https://github.com/golang/image/) repository holds supplementary Go 
 
 Please visit [Awesome Go](https://github.com/avelino/awesome-go#images) for more.
 
-### Terminal UI
+### terminal UI
 
 If you have interests in developing terminal UI Go programs, please check
 [tcell](https://github.com/gdamore/tcell), [tview](https://github.com/rivo/tview), [cview](https://gitlab.com/tslocum/cview/), and [more listed on Awesome Go](https://github.com/avelino/awesome-go#advanced-console-uis).
