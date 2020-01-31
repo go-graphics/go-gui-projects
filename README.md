@@ -44,11 +44,15 @@ core X protocol and many of the X extensions.
 
 [gowd](https://github.com/dtylman/gowd) help us build cross platform GUI apps with GO and HTML/JS/CSS (powered by nwjs)。
 
+[Gowut](https://github.com/icza/gowut) is a Web UI Toolkit written in pure Go. Apps are rendered as HTML pages. It doesn't bundle browsers.
+
+[Lorca](https://github.com/zserge/lorca) is a very small library to build modern HTML5 desktop apps in Go. It doesn't bundle Chrome but reuses the installed Chrome on your machine.
+
+[Muon](https://github.com/ImVexed/muon) is a lightweight alternative to Electron written in Golang
+
 [Wails](https://github.com/wailsapp/wails) is a framework for building desktop applications using Go & Web Technologies.
 
 [webview](https://github.com/zserge/webview) is a tiny cross-platform webview library for C/C++/Golang to build modern cross-platform GUIs.
-
-[Muon](https://github.com/ImVexed/muon) is a lightweight alternative to Electron written in Golang
 
 ### custom GUI
 
@@ -67,17 +71,16 @@ core X protocol and many of the X extensions.
 [gui](https://github.com/faiface/gui) provides super minimal, rock-solid foundation for concurrent GUI in Go.
 
 [imgui-go](https://github.com/inkyblackness/imgui-go) is a Go wrapper for Dear ImGui.
-* [giu](https://github.com/AllenDang/giu) is a GUI framework based on imgui-go.
+* [giu](https://github.com/AllenDang/giu) is a GUI framework based on imgui-go. (Another similar one from the same auther, [gimu](https://github.com/AllenDang/gimu), but for nucular.)
 
 [nk](https://github.com/golang-ui/nuklear) provides Go bindings for nuklear.h. (Another one: [nucular](https://github.com/aarzilli/nucular).)
-
-[gimu](https://github.com/AllenDang/gimu) is go-style idiomatic wrapper for nuklear.
 
 ### 3D graphics and computing API bindings
 
 [d3d9](https://github.com/gonutz/d3d9) is a pure Go wrapper for Microsoft's Direct3D9 API.
 
 [gl](https://github.com/go-gl/gl) repository holds Go bindings to various OpenGL versions. They are auto-generated using Glow. (And [GLHF](https://github.com/faiface/glhf), a gl3.3 wrapper.)
+* And the above mentioned [OpenGL ES 2.0 and ES 3.0 bindings](https://godoc.org/golang.org/x/mobile/gl) from the go-mobile project.
 
 [vulkan](https://github.com/vulkan-go/vulkan) provides Go bindings for Vulkan — a low-overhead, cross-platform 3D graphics and compute API.
 
@@ -113,6 +116,6 @@ Please visit [Awesome Go](https://github.com/avelino/awesome-go#images) for more
 
 ### terminal UI
 
-If you have interests in developing terminal UI Go programs, please check
+BTW, if you have interests in developing terminal UI Go programs, please check
 [tcell](https://github.com/gdamore/tcell), [tview](https://github.com/rivo/tview), [cview](https://gitlab.com/tslocum/cview/), and [more listed on Awesome Go](https://github.com/avelino/awesome-go#advanced-console-uis).
 
