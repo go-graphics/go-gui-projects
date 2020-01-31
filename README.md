@@ -6,12 +6,12 @@
 
 [glfw](https://github.com/go-gl/glfw) is a Go bindings for GLFW 3.
 
+[go-gtk](https://github.com/mattn/go-gtk) is a Go binding for GTK2.
+* [RenderView](https://github.com/TheGrum/renderview) is an easy Go GUI wrapper for interactive manipulation of visual algorithms/backend code. Support go-gtk (default), gotk3 and shiny backends.
+
 [go-mobile](https://github.com/golang/mobile) adds support for mobile platforms (Android and iOS) and provides tools to build mobile applications. (A [Go bindings for OpenGL ES 2.0 and ES 3.0](https://godoc.org/golang.org/x/mobile/gl) is included.)
 
 [go-sdl2](https://github.com/veandco/go-sdl2) is SDL2 wrapped for Go users.
-
-[go-gtk](https://github.com/mattn/go-gtk) is a Go binding for GTK2.
-* [RenderView](https://github.com/TheGrum/renderview) is an easy Go GUI wrapper for interactive manipulation of visual algorithms/backend code. Support go-gtk (default), gotk3 and shiny backends.
 
 [gotk3](https://github.com/gotk3/gotk3) provides Go bindings for GTK+3 and dependent projects (including [cairo](https://github.com/gotk3/gotk3/tree/master/cairo)).
 * Another one: [gobbi](https://github.com/pekim/gobbi) (including [cairo](https://github.com/pekim/gobbi/tree/master/lib/cairo)).
@@ -65,9 +65,9 @@ core X protocol and many of the X extensions.
 
 [Gio](https://git.sr.ht/~eliasnaur/gio) implements portable immediate mode GUI programs in Go. Gio programs run on all the major platforms: iOS/tvOS, Android, Linux (Wayland), macOS, Windows and browsers (Webassembly/WebGL).
 
-[go-flutter](https://github.com/go-flutter-desktop/go-flutter) is a package that brings Flutter to the desktop.
-
 [goey](https://bitbucket.org/rj/goey) provides a declarative, cross-platform GUI for the Go language. The range of controls, their supported properties and events, should roughly match what is available in HTML. However, properties and events may be limited to support portability. Additionally, styling of the controls will be limited, with the look of controls matching the native platform.
+
+[go-flutter](https://github.com/go-flutter-desktop/go-flutter) is a package that brings Flutter to the desktop.
 
 [gui](https://github.com/faiface/gui) provides super minimal, rock-solid foundation for concurrent GUI in Go.
 
