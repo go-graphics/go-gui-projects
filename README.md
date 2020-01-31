@@ -73,13 +73,15 @@ core X protocol and many of the X extensions.
 [imgui-go](https://github.com/inkyblackness/imgui-go) is a Go wrapper for Dear ImGui.
 * [giu](https://github.com/AllenDang/giu) is a GUI framework based on imgui-go. (Another similar one from the same auther, [gimu](https://github.com/AllenDang/gimu), but for nucular.)
 
-[nk](https://github.com/golang-ui/nuklear) provides Go bindings for nuklear.h. (Another one: [nucular](https://github.com/aarzilli/nucular).)
+[nk](https://github.com/golang-ui/nuklear) provides Go bindings for nuklear.h. 
+* Another one: [nucular](https://github.com/aarzilli/nucular).
 
 ### 3D graphics and computing API bindings
 
 [d3d9](https://github.com/gonutz/d3d9) is a pure Go wrapper for Microsoft's Direct3D9 API.
 
-[gl](https://github.com/go-gl/gl) repository holds Go bindings to various OpenGL versions. They are auto-generated using Glow. (And [GLHF](https://github.com/faiface/glhf), a gl3.3 wrapper.)
+[gl](https://github.com/go-gl/gl) repository holds Go bindings to various OpenGL versions. They are auto-generated using Glow. 
+* And [GLHF](https://github.com/faiface/glhf), a gl3.3 wrapper.
 * And the above mentioned [OpenGL ES 2.0 and ES 3.0 bindings](https://godoc.org/golang.org/x/mobile/gl) from the go-mobile project.
 
 [vulkan](https://github.com/vulkan-go/vulkan) provides Go bindings for Vulkan — a low-overhead, cross-platform 3D graphics and compute API.
