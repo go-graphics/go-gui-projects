@@ -13,7 +13,8 @@
 [go-gtk](https://github.com/mattn/go-gtk) is a Go binding for GTK2.
 * [RenderView](https://github.com/TheGrum/renderview) is an easy Go GUI wrapper for interactive manipulation of visual algorithms/backend code. Support go-gtk (default), gotk3 and shiny backends.
 
-[gotk3](https://github.com/gotk3/gotk3) provides Go bindings for GTK+3 and dependent projects.
+[gotk3](https://github.com/gotk3/gotk3) provides Go bindings for GTK+3 and dependent projects (including [cairo](https://github.com/gotk3/gotk3/tree/master/cairo)).
+* Another one: [gobbi](https://github.com/pekim/gobbi) (including [cairo](https://github.com/pekim/gobbi/tree/master/lib/cairo)).
 
 [GXUI](https://github.com/google/gxui) is a Go cross platform UI library.
 
@@ -91,6 +92,7 @@ core X protocol and many of the X extensions.
 [gg](https://github.com/fogleman/gg) is a library for rendering 2D graphics in pure Go.
 
 [go-cairo](https://github.com/ungerik/go-cairo) is a Go binding for the cairo graphics library.
+* And the above mentioned [the](https://github.com/gotk3/gotk3/tree/master/cairo) other [two](https://github.com/pekim/gobbi/tree/master/lib/cairo).
 
 [go-skia](https://github.com/go101/go-skia) is a Go skia binding based on skia C library through cgo.
 
