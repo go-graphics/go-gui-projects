@@ -11,6 +11,7 @@
 [go-sdl2](https://github.com/veandco/go-sdl2) is SDL2 wrapped for Go users.
 
 [go-gtk](https://github.com/mattn/go-gtk) is a Go binding for GTK2.
+* [RenderView] is an easy Go GUI wrapper for interactive manipulation of visual algorithms/backend code. Support go-gtk (default), gotk3 and shiny backends.
 
 [gotk3](https://github.com/gotk3/gotk3) provides Go bindings for GTK+3 and dependent projects.
 
@@ -70,7 +71,7 @@ core X protocol and many of the X extensions.
 
 [nk](https://github.com/golang-ui/nuklear) provides Go bindings for nuklear.h. (Another one: [nucular](https://github.com/aarzilli/nucular).)
 
-[gimu](https://github.com/AllenDang/gimu) is go-style idiomatic wrapper for nuklear for nk.
+[gimu](https://github.com/AllenDang/gimu) is go-style idiomatic wrapper for nuklear.
 
 ### 3D graphics and computing API bindings
 
@@ -98,9 +99,9 @@ core X protocol and many of the X extensions.
 
 ### game development related
 
-Please visit [Awesome Go](https://github.com/avelino/awesome-go#game-development) for the list.
-
 [godot-go](https://github.com/ShadowApex/godot-go) - Go language bindings for the [Godot Engine](https://godotengine.org/)'s [GDNative API](https://github.com/GodotNativeTools/godot_headers).
+
+Please visit [Awesome Go](https://github.com/avelino/awesome-go#game-development) for the list.
 
 ### image processing related
 
@@ -110,4 +111,8 @@ The [image](https://github.com/golang/image/) repository holds supplementary Go 
 
 Please visit [Awesome Go](https://github.com/avelino/awesome-go#images) for more.
 
+### Terminal UI
+
+If you have interests in developing terminal UI Go programs, please check
+[tcell](https://github.com/gdamore/tcell), [tview](https://github.com/rivo/tview), [cview](https://gitlab.com/tslocum/cview/), and [more listed on Awesome Go](https://github.com/avelino/awesome-go#advanced-console-uis).
 
