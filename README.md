@@ -13,6 +13,8 @@
 
 [go-sdl2](https://github.com/veandco/go-sdl2) is SDL2 wrapped for Go users.
 
+[gothic](https://github.com/nsf/gothic) is a tcl/tk binding.
+
 [gotk3](https://github.com/gotk3/gotk3) provides Go bindings for GTK+3 and dependent projects (including [cairo](https://github.com/gotk3/gotk3/tree/master/cairo)).
 * Another one: [gobbi](https://github.com/pekim/gobbi) (including [cairo](https://github.com/pekim/gobbi/tree/master/lib/cairo)).
 
