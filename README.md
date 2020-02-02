@@ -34,6 +34,8 @@
 
 [w32.go](https://gist.github.com/nathan-osman/18c2e227ad00a223b61c0b3c16d452c3) is a simple example on show to create Windows GUI by using the `syscall` pacakge.
 
+[wui](https://github.com/gonutz/wui) is a Windows GUI library that uses the native Win32 API.
+
 [XGB](https://github.com/BurntSushi/xgb) is the X Go Binding, which is a low-level API to communicate with the
 core X protocol and many of the X extensions.
 
