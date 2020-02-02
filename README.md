@@ -34,7 +34,7 @@
 
 [Walk](https://github.com/lxn/walk) is a "Windows Application Library Kit" for the Go Programming Language.
 
-[wui](https://github.com/gonutz/wui) is a Windows GUI library that uses the native Win32 API.
+[wui](https://github.com/gonutz/wui) is a Windows GUI library that uses [the native Win32 API](https://github.com/gonutz/w32), which is forked from [this one](https://github.com/AllenDang/w32).
 
 [XGB](https://github.com/BurntSushi/xgb) is the X Go Binding, which is a low-level API to communicate with the
 core X protocol and many of the X extensions.
