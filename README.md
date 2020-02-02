@@ -51,7 +51,9 @@ core X protocol and many of the X extensions.
 
 [Lorca](https://github.com/zserge/lorca) is a very small library to build modern HTML5 desktop apps in Go. It doesn't bundle Chrome but reuses the installed Chrome on your machine.
 
-[Muon](https://github.com/ImVexed/muon) is a lightweight alternative to Electron written in Golang
+[Muon](https://github.com/ImVexed/muon) is a lightweight alternative to Electron written in Golang, using [Ultralight](https://ultralig.ht/) instead of Chromium.
+
+[Qlovaseed](https://github.com/qlova/seed) is a lightweight alternative to Electron written in Golang. Apps are rendered as HTML pages. It doesn't bundle browsers.
 
 [Wails](https://github.com/wailsapp/wails) is a framework for building desktop applications using Go & Web Technologies.
 
