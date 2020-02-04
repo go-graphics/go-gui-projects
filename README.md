@@ -1,3 +1,10 @@
+
+----
+
+_(Please follow [@Go100and1](https://twitter.com/go100and1) for updates and all kinds of details and facts in Go)._
+
+----
+
 # A list of Go GUI/graphics/image related projects
 
 ### native GUI and utility bindings
