@@ -1,6 +1,4 @@
 
-----
-
 _(Please follow [@Go100and1](https://twitter.com/go100and1) for updates and all kinds of details and facts in Go)._
 
 ----
