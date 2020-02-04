@@ -114,7 +114,7 @@ core X protocol and many of the X extensions.
 
 [godot-go](https://github.com/ShadowApex/godot-go) - Go language bindings for the [Godot Engine](https://godotengine.org/)'s [GDNative API](https://github.com/GodotNativeTools/godot_headers).
 
-Please visit [Awesome Go](https://github.com/avelino/awesome-go#game-development) for the list.
+Please visit [Awesome Go](https://github.com/avelino/awesome-go#game-development) for more.
 
 ### image processing related
 
