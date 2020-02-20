@@ -86,7 +86,7 @@ core X protocol and many of the X extensions.
 * [giu](https://github.com/AllenDang/giu) is a GUI framework based on imgui-go. (Another similar one from the same auther, [gimu](https://github.com/AllenDang/gimu), but for nucular.)
 
 [nk](https://github.com/golang-ui/nuklear) provides Go bindings for nuklear.h. 
-* Another one: [nucular](https://github.com/aarzilli/nucular).
+* Another one: [nucular](https://github.com/aarzilli/nucular), which uses gio or shiny backend instead of cgo.
 
 ### 3D graphics and computing API bindings
 
