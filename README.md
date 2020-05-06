@@ -1,5 +1,5 @@
 
-_(Please follow [@Go100and1](https://twitter.com/go100and1) for updates and all kinds of details and facts in Go)._
+_(Please follow [@Go100and1](https://twitter.com/go100and1) for updates on this page, and all kinds of details and facts in Go)._
 
 ----
 
@@ -132,5 +132,5 @@ Please visit [Awesome Go](https://github.com/avelino/awesome-go#images) for more
 ### terminal UI
 
 BTW, if you have interests in developing terminal UI Go programs, please check
-[tcell](https://github.com/gdamore/tcell), [tview](https://github.com/rivo/tview), [cview](https://gitlab.com/tslocum/cview/), and [more listed on Awesome Go](https://github.com/avelino/awesome-go#advanced-console-uis).
+[tcell](https://github.com/gdamore/tcell), [tview](https://github.com/rivo/tview) (which depends on tcell), [cview](https://gitlab.com/tslocum/cview/) (which is [a fork](https://gitlab.com/tslocum/cview/blob/master/FORK.md) of tview), and [more listed on Awesome Go](https://github.com/avelino/awesome-go#advanced-console-uis).
 
