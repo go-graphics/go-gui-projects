@@ -102,8 +102,13 @@ core X protocol and many of the X extensions.
 
 [gg](https://github.com/fogleman/gg) is a library for rendering 2D graphics in pure Go.
 
+The [Gio](https://git.sr.ht/~eliasnaur/gio) project includes an efficient vector renderer based on [the Pathfinder project](https://github.com/servo/pathfinder), implemented on OpenGL ES and Direct3D 11.
+* [giocanvas](https://github.com/ajstarks/giocanvas) is a canvas API built on top of Gio.
+
 [go-cairo](https://github.com/ungerik/go-cairo) is a Go binding for the cairo graphics library.
 * And the above mentioned [the](https://github.com/gotk3/gotk3/tree/master/cairo) other [two](https://github.com/pekim/gobbi/tree/master/lib/cairo).
+
+[Go canvas](https://github.com/tfriedel6/canvas) is a pure Go library that provides drawing functionality as similar as possible to the HTML5 canvas API, implemented on OpenGL backend (and software backend).
 
 [go-skia](https://github.com/go101/go-skia) is a Go skia binding based on skia C library through cgo.
 
