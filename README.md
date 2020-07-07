@@ -112,7 +112,7 @@ The [Gio](https://git.sr.ht/~eliasnaur/gio) project includes an efficient vector
 
 [go-skia](https://github.com/go101/go-skia) is a Go skia binding based on skia C library through cgo.
 
-[NanoVGo](https://github.com/darmie/nanovgo-gles) is pure golang implementation of [NanoVG}(https://github.com/memononen/nanovg).
+[NanoVGo](https://github.com/darmie/nanovgo-gles) is pure golang implementation of [NanoVG](https://github.com/memononen/nanovg).
 
 [svgo](https://github.com/ajstarks/svgo) generates SVG as defined by the Scalable Vector Graphics 1.1 Specification.
 
