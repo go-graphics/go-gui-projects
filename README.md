@@ -95,6 +95,7 @@ core X protocol and many of the X extensions.
 [gl](https://github.com/go-gl/gl) repository holds Go bindings to various OpenGL versions. They are auto-generated using Glow. 
 * And [GLHF](https://github.com/faiface/glhf), a gl3.3 wrapper.
 * And the above mentioned [OpenGL ES 2.0 and ES 3.0 bindings](https://godoc.org/golang.org/x/mobile/gl) from the go-mobile project.
+* Also the OpenGL ES implemention in the [android-go](https://github.com/xlab/android-go) project.
 
 [vulkan](https://github.com/vulkan-go/vulkan) provides Go bindings for Vulkan — a low-overhead, cross-platform 3D graphics and compute API.
 
