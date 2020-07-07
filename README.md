@@ -106,11 +106,13 @@ The [Gio](https://git.sr.ht/~eliasnaur/gio) project includes an efficient vector
 * [giocanvas](https://github.com/ajstarks/giocanvas) is a canvas API built on top of Gio.
 
 [go-cairo](https://github.com/ungerik/go-cairo) is a Go binding for the cairo graphics library.
-* And the above mentioned [the](https://github.com/gotk3/gotk3/tree/master/cairo) other [two](https://github.com/pekim/gobbi/tree/master/lib/cairo).
+* And the above mentioned [the](https://github.com/gotk3/gotk3/tree/master/cairo) [other](https://github.com/pekim/gobbi/tree/master/lib/cairo) [ones](https://github.com/golang-ui/cairo).
 
 [Go canvas](https://github.com/tfriedel6/canvas) is a pure Go library that provides drawing functionality as similar as possible to the HTML5 canvas API, implemented on OpenGL backend (and software backend).
 
 [go-skia](https://github.com/go101/go-skia) is a Go skia binding based on skia C library through cgo.
+
+[NanoVGo](https://github.com/darmie/nanovgo-gles) is pure golang implementation of [NanoVG}(https://github.com/memononen/nanovg).
 
 [svgo](https://github.com/ajstarks/svgo) generates SVG as defined by the Scalable Vector Graphics 1.1 Specification.
 
