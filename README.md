@@ -121,7 +121,7 @@ The [Gio](https://git.sr.ht/~eliasnaur/gio) project includes an efficient vector
 
 [freetype](https://github.com/golang/freetype) is a Freetype font rasterizer in the Go programming language.
 
-The [Gio](https://git.sr.ht/~eliasnaur/gio) project includes an efficient vector renderer based on [the Pathfinder project](https://github.com/servo/pathfinder), to render OpenType fonts on GPU.
+The [golang.org/x/image/font/sfnt](https://godoc.org/golang.org/x/image/font/sfnt) pacakge parses SFNT font file formats, including TrueType and OpenType.
 
 [pixfont](https://github.com/pbnjay/pixfont) is a simple, lightweight Pixel Font (aka bitmap fonts) package for Go that works with the standard image/draw package
 
