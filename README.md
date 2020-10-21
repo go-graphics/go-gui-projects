@@ -30,6 +30,8 @@ _(Please follow [@Go100and1](https://twitter.com/go100and1) for updates on this 
 
 [qt](https://github.com/therecipe/qt) allows you to write Qt applications entirely in Go and makes deploying them later very easy.
 
+[qt.go](https://github.com/kitech/qt.go) is a Qt5 binding which uses FFI instead of CGO.
+
 [shiny](https://github.com/golang/exp/tree/master/shiny) is a Go cross platform UI package.
 
 [systray](https://github.com/getlantern/systray) is a cross platfrom Go library to place an icon and menu in the notification area. Tested on Windows 8, Mac OSX, Ubuntu 14.10 and Debian 7.6.
