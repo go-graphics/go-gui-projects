@@ -90,6 +90,8 @@ core X protocol and many of the X extensions.
 [imgui-go](https://github.com/inkyblackness/imgui-go) is a Go wrapper for Dear ImGui.
 * [giu](https://github.com/AllenDang/giu) is a GUI framework based on imgui-go. (Another similar one from the same auther, [gimu](https://github.com/AllenDang/gimu), but for nucular.)
 
+[NanoGUI.go](https://github.com/shibukawa/nanogui-go) is a golang port of [NanoGUI](https://github.com/wjakob/nanogui).
+
 [nk](https://github.com/golang-ui/nuklear) provides Go bindings for nuklear.h. 
 * Another one: [nucular](https://github.com/aarzilli/nucular), which uses gio or shiny backend instead of cgo.
 
@@ -118,8 +120,8 @@ The [Gio](https://git.sr.ht/~eliasnaur/gio) project includes an efficient vector
 
 [go-skia](https://github.com/go101/go-skia) is a Go skia binding based on skia C library through cgo.
 
-[NanoVGo](https://github.com/shibukawa/nanovgo) is pure golang implementation of [NanoVG](https://github.com/memononen/nanovg).
-* And [a CGO binding version](https://github.com/beta/nanovgo).
+[NanoVGo](https://github.com/shibukawa/nanovgo) is pure golang implementation of [NanoVG](https://github.com/memononen/nanovg). The same author maintains the NanoGUI.go project mentioned above.
+* [A CGO binding version](https://github.com/beta/nanovgo) of NanoVG.
 
 [svgo](https://github.com/ajstarks/svgo) generates SVG as defined by the Scalable Vector Graphics 1.1 Specification.
 
