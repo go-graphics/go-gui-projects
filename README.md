@@ -51,6 +51,8 @@ core X protocol and many of the X extensions.
 
 [xgbutil](https://github.com/BurntSushi/xgbutil) is a utility library designed to work with the X Go Binding.
 
+[zenity](https://github.com/ncruces/zenity) is a cross-platform package providing [Zenity](https://help.gnome.org/users/zenity/stable/)-like dialogs.
+
 ### HTML based GUI
 
 [go-astilectron](https://github.com/asticode/go-astilectron) helps use build cross platform GUI apps with GO and HTML/JS/CSS. It is the official GO bindings of astilectron and is powered by Electron.
