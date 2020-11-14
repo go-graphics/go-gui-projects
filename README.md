@@ -120,6 +120,12 @@ The [Gio](https://git.sr.ht/~eliasnaur/gio) project includes an efficient vector
 
 [Go canvas](https://github.com/tfriedel6/canvas) is a pure Go library that provides drawing functionality as similar as possible to the HTML5 canvas API, implemented on OpenGL backend (and software backend).
 
+[go-chart](https://github.com/wcharczuk/go-chart) is a very simple golang native charting library that supports timeseries and continuous line charts.
+
+[gonum/plot](https://github.com/gonum/plot) provides an API for building and drawing plots in Go
+
+[go-p5](https://github.com/go-p5/p5) is a simple package that provides primitives resembling the ones exposed by the [p5/processing](https://p5js.org/) library.
+
 [go-skia](https://github.com/go101/go-skia) is a Go skia binding based on skia C library through cgo.
 
 [NanoVGo](https://github.com/shibukawa/nanovgo) is pure golang implementation of [NanoVG](https://github.com/memononen/nanovg). The same author maintains the NanoGUI.go project mentioned above.
