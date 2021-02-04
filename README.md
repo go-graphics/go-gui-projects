@@ -28,6 +28,8 @@ _(Please follow [@Go100and1](https://twitter.com/go100and1) for updates on this 
 
 [GXUI](https://github.com/google/gxui) is a Go cross platform UI library.
 
+[MacDriver](https://github.com/progrium/macdriver) is a toolkit for working with Apple/Mac APIs and frameworks in Go.
+
 [qt](https://github.com/therecipe/qt) allows you to write Qt applications entirely in Go and makes deploying them later very easy.
 
 [qt.go](https://github.com/kitech/qt.go) is a Qt5 binding which uses FFI instead of CGO.
