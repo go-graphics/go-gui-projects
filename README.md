@@ -112,6 +112,8 @@ core X protocol and many of the X extensions.
 
 ### 2D vector graphics and computing APIs
 
+[draw2d](https://github.com/llgcode/draw2d) is a Go 2D vector graphics library with support for multiple outputs such as images (draw2d), pdf documents (draw2dpdf), opengl (draw2dgl) and svg (draw2dsvg). 
+
 [gg](https://github.com/fogleman/gg) is a library for rendering 2D graphics in pure Go.
 
 The [Gio](https://git.sr.ht/~eliasnaur/gio) project includes an efficient vector renderer based on [the Pathfinder project](https://github.com/servo/pathfinder), implemented on OpenGL ES and Direct3D 11.
