@@ -26,6 +26,8 @@ _(Please follow [@Go100and1](https://twitter.com/go100and1) for updates on this 
 [gotk3](https://github.com/gotk3/gotk3) provides Go bindings for GTK+3 and dependent projects (including [cairo](https://github.com/gotk3/gotk3/tree/master/cairo)).
 * Another one: [gobbi](https://github.com/pekim/gobbi) (including [cairo](https://github.com/pekim/gobbi/tree/master/lib/cairo)).
 
+[gotk4](https://github.com/diamondburned/gotk4) is a GTK4 bindings generator for Go.
+
 [GXUI](https://github.com/google/gxui) is a Go cross platform UI library.
 
 [MacDriver](https://github.com/progrium/macdriver) is a toolkit for working with Apple/Mac APIs and frameworks in Go.
