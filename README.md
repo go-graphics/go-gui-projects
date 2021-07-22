@@ -46,6 +46,8 @@ _(Please follow [@Go100and1](https://twitter.com/go100and1) for updates on this 
 
 [w32.go](https://gist.github.com/nathan-osman/18c2e227ad00a223b61c0b3c16d452c3) is a simple example on show to create Windows GUI by using the `syscall` pacakge.
 
+[Windigo](https://github.com/rodrigocfd/windigo) - Win32 API and GUI in idiomatic Go.
+
 [Walk](https://github.com/lxn/walk) is a "Windows Application Library Kit" for the Go Programming Language.
 
 [wui](https://github.com/gonutz/wui) is a Windows GUI library that uses [the native Win32 API](https://github.com/gonutz/w32), which is forked from [this one](https://github.com/AllenDang/w32).
