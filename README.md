@@ -28,6 +28,8 @@ _(Please follow [@Go100and1](https://twitter.com/go100and1) for updates on this 
 
 [gotk4](https://github.com/diamondburned/gotk4) is a GTK4 bindings generator for Go.
 
+[GoVCL] is a native GUI library based on [Lazarus](https://www.lazarus-ide.org/).
+
 [GXUI](https://github.com/google/gxui) is a Go cross platform UI library.
 
 [MacDriver](https://github.com/progrium/macdriver) is a toolkit for working with Apple/Mac APIs and frameworks in Go.
