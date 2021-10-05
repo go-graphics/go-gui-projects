@@ -44,7 +44,7 @@ _(Please follow [@Go100and1](https://twitter.com/go100and1) for updates on this 
 
 [trayhost](https://github.com/shurcooL/trayhost) is a cross-platform Go library to place an icon in the host operating system's taskbar.
 
-[ui](https://github.com/andlabs/ui) aims to provide simple GUI software development in Go.
+[ui](https://github.com/andlabs/ui) aims to provide simple GUI software development in Go, based on my c lib [libui](https://github.com/andlabs/libui).
 
 [w32.go](https://gist.github.com/nathan-osman/18c2e227ad00a223b61c0b3c16d452c3) is a simple example on show to create Windows GUI by using the `syscall` pacakge.
 
