@@ -63,6 +63,8 @@ core X protocol and many of the X extensions.
 
 ### HTML based GUI
 
+[Go-app](https://github.com/maxence-charriere/go-app) is a package for building progressive web apps (PWA) with the Go programming language (Golang) and WebAssembly (Wasm).
+
 [go-astilectron](https://github.com/asticode/go-astilectron) helps use build cross platform GUI apps with GO and HTML/JS/CSS. It is the official GO bindings of astilectron and is powered by Electron.
 
 [go-sciter](https://github.com/sciter-sdk/go-sciter) is a Golang bindings of Sciter: the Embeddable HTML/CSS/script engine for modern UI development。
@@ -79,7 +81,7 @@ core X protocol and many of the X extensions.
 
 [Wails](https://github.com/wailsapp/wails) is a framework for building desktop applications using Go & Web Technologies.
 
-[webview](https://github.com/zserge/webview) is a tiny cross-platform webview library for C/C++/Golang to build modern cross-platform GUIs.
+[webview](https://github.com/webview/webview) is a tiny cross-platform webview library for C/C++/Golang to build modern cross-platform GUIs.
 
 ### custom GUI
 
