@@ -21,6 +21,8 @@ _(Please follow [@Go100and1](https://twitter.com/go100and1) for updates on this 
 
 [go-sdl2](https://github.com/veandco/go-sdl2) is SDL2 wrapped for Go users.
 
+[go-sfml](https://github.com/teh-cmc/go-sfml) is a Go bindings for [SFML](https://www.sfml-dev.org/).
+
 [gothic](https://github.com/nsf/gothic) is a tcl/tk binding.
 
 [gotk3](https://github.com/gotk3/gotk3) provides Go bindings for GTK+3 and dependent projects (including [cairo](https://github.com/gotk3/gotk3/tree/master/cairo)).
