@@ -155,6 +155,10 @@ The [golang.org/x/image/font/sfnt](https://godoc.org/golang.org/x/image/font/sfn
 
 [pixfont](https://github.com/pbnjay/pixfont) is a simple, lightweight Pixel Font (aka bitmap fonts) package for Go that works with the standard image/draw package
 
+### CAD related
+
+[sdfx](https://github.com/deadsy/sdfx) is a simple CAD package written in Go. [sdf](https://github.com/soypat/sdf) is a rewritten of it.
+
 ### game development related
 
 [godot-go](https://github.com/ShadowApex/godot-go) - Go language bindings for the [Godot Engine](https://godotengine.org/)'s [GDNative API](https://github.com/GodotNativeTools/godot_headers).
