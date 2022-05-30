@@ -34,6 +34,8 @@ _(Please follow [@Go100and1](https://twitter.com/go100and1) for updates on this 
 
 [GXUI](https://github.com/google/gxui) is a Go cross platform UI library.
 
+[iup-go](https://github.com/gen2brain/iup-go) is a Go bindings for [IUP](https://www.tecgraf.puc-rio.br/iup/).
+
 [MacDriver](https://github.com/progrium/macdriver) is a toolkit for working with Apple/Mac APIs and frameworks in Go.
 
 [qt](https://github.com/therecipe/qt) allows you to write Qt applications entirely in Go and makes deploying them later very easy.
