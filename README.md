@@ -65,6 +65,8 @@ core X protocol and many of the X extensions.
 
 [zenity](https://github.com/ncruces/zenity) is a cross-platform package providing [Zenity](https://help.gnome.org/users/zenity/stable/)-like dialogs.
 
+[nuxui](https://github.com/nuxui/nuxui) is a cross-platform GUI library to make macOS, window, linux, IOS, android applications.
+
 ### HTML based GUI
 
 [Go-app](https://github.com/maxence-charriere/go-app) is a package for building progressive web apps (PWA) with the Go programming language (Golang) and WebAssembly (Wasm).
