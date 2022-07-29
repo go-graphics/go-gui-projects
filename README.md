@@ -166,6 +166,7 @@ The [golang.org/x/image/font/sfnt](https://godoc.org/golang.org/x/image/font/sfn
 [godot-go](https://github.com/ShadowApex/godot-go) - Go language bindings for the [Godot Engine](https://godotengine.org/)'s [GDNative API](https://github.com/GodotNativeTools/godot_headers).
 
 [raylib-go](https://github.com/gen2brain/raylib-go) is a Golang binding for [raylib](https://www.raylib.com).
+[ebiten](https://github.com/hajimehoshi/ebiten)  – A dead simple 2D game library for Golang
 
 Please visit [Awesome Go](https://github.com/avelino/awesome-go#game-development) for more.
 
