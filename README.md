@@ -40,6 +40,8 @@ _(Please follow [@Go100and1](https://twitter.com/go100and1) for updates on this 
 
 [MacDriver](https://github.com/progrium/macdriver) is a toolkit for working with Apple/Mac APIs and frameworks in Go.
 
+[nuxui](https://github.com/nuxui/nuxui) is a cross-platform GUI library to make macOS, window, linux, IOS, android applications.
+
 [qt](https://github.com/therecipe/qt) allows you to write Qt applications entirely in Go and makes deploying them later very easy.
 
 [qt.go](https://github.com/kitech/qt.go) is a Qt5 binding which uses FFI instead of CGO.
@@ -66,8 +68,6 @@ core X protocol and many of the X extensions.
 [xgbutil](https://github.com/BurntSushi/xgbutil) is a utility library designed to work with the X Go Binding.
 
 [zenity](https://github.com/ncruces/zenity) is a cross-platform package providing [Zenity](https://help.gnome.org/users/zenity/stable/)-like dialogs.
-
-[nuxui](https://github.com/nuxui/nuxui) is a cross-platform GUI library to make macOS, window, linux, IOS, android applications.
 
 ### HTML based GUI
 
