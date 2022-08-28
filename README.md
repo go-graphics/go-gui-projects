@@ -9,6 +9,8 @@ _(Please follow [@Go100and1](https://twitter.com/go100and1) for updates on this 
 
 [dlgs](https://github.com/gen2brain/dlgs) is a cross-platform library for displaying dialogs and input boxes.
 
+[gamen](https://github.com/rajveermalviya/gamen) is cross-platform GUI window creation and management library in Go.
+
 [gform](https://github.com/AllenDang/gform) is an easy to use Windows GUI toolkit for Go.
 * [winc](https://github.com/tadvi/winc) is a common library for Go GUI apps on Windows (based on gform).
 
