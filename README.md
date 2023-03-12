@@ -125,8 +125,8 @@ core X protocol and many of the X extensions.
 * Also the OpenGL ES implemention in the [android-go](https://github.com/xlab/android-go) project.
 
 [vulkan](https://github.com/vulkan-go/vulkan) provides Go bindings for Vulkan — a low-overhead, cross-platform 3D graphics and compute API.
-* another one: [vkngwrapper](https://github.com/vkngwrapper)
-* and another one:[go-vk](https://github.com/bbredesen/go-vk)
+* Another one: [vkngwrapper](https://github.com/vkngwrapper)
+* And another one: [go-vk](https://github.com/bbredesen/go-vk)
 
 ### 2D vector graphics and computing APIs
 
