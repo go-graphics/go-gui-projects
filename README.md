@@ -170,6 +170,7 @@ The [golang.org/x/image/font/sfnt](https://godoc.org/golang.org/x/image/font/sfn
 ### game development related
 
 [ebiten](https://github.com/hajimehoshi/ebiten)  – A dead simple 2D game library for Golang
+* [ebitenui](https://github.com/ebitenui/ebitenui) - A UI library on top of ebiten
 
 [godot-go](https://github.com/ShadowApex/godot-go) - Go language bindings for the [Godot Engine](https://godotengine.org/)'s [GDNative API](https://github.com/GodotNativeTools/godot_headers).
 
