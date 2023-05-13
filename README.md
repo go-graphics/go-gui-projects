@@ -115,6 +115,8 @@ core X protocol and many of the X extensions.
 [nk](https://github.com/golang-ui/nuklear) provides Go bindings for nuklear.h. 
 * Another one: [nucular](https://github.com/aarzilli/nucular), which uses gio or shiny backend instead of cgo.
 
+[Unison](https://github.com/richardwilkes/unison) A unified graphical user experience toolkit for Go desktop applications. macOS, Windows, and Linux are supported. Unison is built upon glfw. Unison defines its own look and feel for widgets. This was done to provide as much consistency as possible between all supported platforms.
+
 ### 3D graphics and computing API bindings
 
 [d3d9](https://github.com/gonutz/d3d9) is a pure Go wrapper for Microsoft's Direct3D9 API.
