@@ -16,7 +16,7 @@ _(Please follow [@Go100and1](https://twitter.com/go100and1) for updates on this 
 
 [glfw](https://github.com/go-gl/glfw) is a Go bindings for GLFW 3.
 
-[go-fltk](https://pkg.go.dev/github.com/pwiecz/go-fltk) is a simple wrapper around [FLTK 1.4 library](https://www.fltk.org/), which is a lightweight GUI library which allows creating small, self-contained and fast gui applications.
+[go-fltk](https://github.com/pwiecz/go-fltk) is a simple wrapper around [FLTK 1.4 library](https://www.fltk.org/), which is a lightweight GUI library which allows creating small, self-contained and fast gui applications.
 
 [go-gtk](https://github.com/mattn/go-gtk) is a Go binding for GTK2.
 * [RenderView](https://github.com/TheGrum/renderview) is an easy Go GUI wrapper for interactive manipulation of visual algorithms/backend code. Support go-gtk (default), gotk3 and shiny backends.
