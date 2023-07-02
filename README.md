@@ -103,7 +103,7 @@ core X protocol and many of the X extensions.
 
 [Gio](https://git.sr.ht/~eliasnaur/gio) implements portable immediate mode GUI programs in Go. Gio programs run on all the major platforms: iOS/tvOS, Android, Linux (Wayland), macOS, Windows and browsers (Webassembly/WebGL).
 
-[goey](https://bitbucket.org/rj/goey) provides a declarative, cross-platform GUI for the Go language. The range of controls, their supported properties and events, should roughly match what is available in HTML. However, properties and events may be limited to support portability. Additionally, styling of the controls will be limited, with the look of controls matching the native platform.
+[goey](https://bitbucket.org/rj/goey) [mirror](https://gitlab.com/stone.code/goey) provides a declarative, cross-platform GUI for the Go language. The range of controls, their supported properties and events, should roughly match what is available in HTML. However, properties and events may be limited to support portability. Additionally, styling of the controls will be limited, with the look of controls matching the native platform.
 
 [go-flutter](https://github.com/go-flutter-desktop/go-flutter) is a package that brings Flutter to the desktop.
 
