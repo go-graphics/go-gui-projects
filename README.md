@@ -50,6 +50,8 @@ _(Please follow [@Go100and1](https://twitter.com/go100and1) for updates on this 
 
 [shiny](https://github.com/golang/exp/tree/master/shiny) is a Go cross platform UI package.
 
+[Spot](https://github.com/roblillack/spot) is a reactive, cross-platform desktop GUI toolkit.
+
 [systray](https://github.com/getlantern/systray) is a cross platfrom Go library to place an icon and menu in the notification area. Tested on Windows 8, Mac OSX, Ubuntu 14.10 and Debian 7.6.
 
 [trayhost](https://github.com/shurcooL/trayhost) is a cross-platform Go library to place an icon in the host operating system's taskbar.
