@@ -1,5 +1,5 @@
 
-_(请关注 [@Go100and1](https://twitter.com/go100and1)了解此页面的更新以及 Go 的各种详细信息和事实)._
+_(请关注 [@zigo_101](https://twitter.com/zigo_101)了解此页面的更新以及 Go 编程中的各种详细信息和事实)._
 
 ----
 
@@ -34,7 +34,7 @@ _(请关注 [@Go100and1](https://twitter.com/go100and1)了解此页面的更新�
 
 [gotk4](https://github.com/diamondburned/gotk4) 是 Go 的 GTK4 绑定生成器。
 
-[GoVCL](https://github.com/ying32/govcl) 是一个基于 [Lazarus](https://www.lazarus-ide.org/)的本机 GUI 库。
+[GoVCL](https://github.com/ying32/govcl) 是一个基于 [liblcl](https://github.com/ying32/liblcl)的本机 GUI 库。
 
 [GXUI](https://github.com/google/gxui) 是一个 Go 跨平台 UI 库。
 
