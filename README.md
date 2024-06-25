@@ -75,6 +75,8 @@ core X protocol and many of the X extensions.
 
 ### HTML based GUI
 
+[Apptron](https://github.com/tractordev/apptron) gives you webview windows and common platform APIs for your simple scripts, homebrew utilities, or full applications.
+
 [Go-app](https://github.com/maxence-charriere/go-app) is a package for building progressive web apps (PWA) with the Go programming language (Golang) and WebAssembly (Wasm).
 
 [go-astilectron](https://github.com/asticode/go-astilectron) helps use build cross platform GUI apps with GO and HTML/JS/CSS. It is the official GO bindings of astilectron and is powered by Electron.
