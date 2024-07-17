@@ -7,6 +7,8 @@ _(Please follow [@zigo_101](https://twitter.com/zigo_101) for updates on this pa
 
 ### native GUI and utility bindings
 
+[DarwinKit](https://github.com/progrium/darwinkit) (old name: MacDriver) lets you work with Apple frameworks and build native Mac applications using Go.
+
 [dlgs](https://github.com/gen2brain/dlgs) is a cross-platform library for displaying dialogs and input boxes.
 
 [gamen](https://github.com/rajveermalviya/gamen) is cross-platform GUI window creation and management library in Go.
@@ -39,8 +41,6 @@ _(Please follow [@zigo_101](https://twitter.com/zigo_101) for updates on this pa
 [GXUI](https://github.com/google/gxui) is a Go cross platform UI library.
 
 [iup-go](https://github.com/gen2brain/iup-go) is a Go bindings for [IUP](https://www.tecgraf.puc-rio.br/iup/).
-
-[MacDriver](https://github.com/progrium/macdriver) is a toolkit for working with Apple/Mac APIs and frameworks in Go.
 
 [nuxui](https://github.com/nuxui/nuxui) is a cross-platform GUI library to make macOS, window, linux, IOS, android applications.
 
