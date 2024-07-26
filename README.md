@@ -99,11 +99,11 @@ core X protocol and many of the X extensions.
 
 ### custom GUI
 
+[Cogent Core](https://github.com/cogentcore/core) is a free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web.
+
 [duit](https://github.com/mjl-/duit) is a pure go, cross-platform, MIT-licensed ui toolkit for developers.
 
 [Fyne](https://github.com/fyne-io/fyne) is an easy to use UI toolkit and app API written in Go. We use OpenGL (through the go-gl and go-glfw projects) to provide cross platform graphics.
-
-[gi](https://github.com/goki/gi) is a scenegraph-based 2D and 3D GUI / graphics interface (Gi) in Go.
 
 [Gio](https://git.sr.ht/~eliasnaur/gio) implements portable immediate mode GUI programs in Go. Gio programs run on all the major platforms: iOS/tvOS, Android, Linux (Wayland), macOS, Windows and browsers (Webassembly/WebGL).
 
