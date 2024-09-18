@@ -42,6 +42,8 @@ _(Please follow [@zigo_101](https://twitter.com/zigo_101) for updates on this pa
 
 [iup-go](https://github.com/gen2brain/iup-go) is a Go bindings for [IUP](https://www.tecgraf.puc-rio.br/iup/).
 
+[miqt](https://github.com/mappu/miqt) is MIT-licensed Qt bindings for Go.
+
 [nuxui](https://github.com/nuxui/nuxui) is a cross-platform GUI library to make macOS, window, linux, IOS, android applications.
 
 [qt](https://github.com/therecipe/qt) allows you to write Qt applications entirely in Go and makes deploying them later very easy.
