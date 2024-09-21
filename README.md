@@ -20,9 +20,6 @@ _(Please follow [@zigo_101](https://twitter.com/zigo_101) for updates on this pa
 
 [go-fltk](https://github.com/pwiecz/go-fltk) is a simple wrapper around [FLTK 1.4 library](https://www.fltk.org/), which is a lightweight GUI library which allows creating small, self-contained and fast gui applications.
 
-[go-gtk](https://github.com/mattn/go-gtk) is a Go binding for GTK2.
-* [RenderView](https://github.com/TheGrum/renderview) is an easy Go GUI wrapper for interactive manipulation of visual algorithms/backend code. Support go-gtk (default), gotk3 and shiny backends.
-
 [go-mobile](https://github.com/golang/mobile) adds support for mobile platforms (Android and iOS) and provides tools to build mobile applications. (A [Go bindings for OpenGL ES 2.0 and ES 3.0](https://godoc.org/golang.org/x/mobile/gl) is included.)
 
 [go-sdl2](https://github.com/veandco/go-sdl2) is SDL2 wrapped for Go users.
@@ -31,12 +28,14 @@ _(Please follow [@zigo_101](https://twitter.com/zigo_101) for updates on this pa
 
 [gothic](https://github.com/nsf/gothic) is a tcl/tk binding.
 
-[gotk3](https://github.com/gotk3/gotk3) provides Go bindings for GTK+3 and dependent projects (including [cairo](https://github.com/gotk3/gotk3/tree/master/cairo)).
-* Another one: [gobbi](https://github.com/pekim/gobbi) (including [cairo](https://github.com/pekim/gobbi/tree/master/lib/cairo)).
-
-[gotk4](https://github.com/diamondburned/gotk4) is a GTK4 bindings generator for Go.
-
 [GoVCL](https://github.com/ying32/govcl) is a native GUI library based on [liblcl](https://github.com/ying32/liblcl).
+
+GTK related:
+* [go-gtk](https://github.com/mattn/go-gtk) is a Go binding for GTK2.
+  * [RenderView](https://github.com/TheGrum/renderview) is an easy Go GUI wrapper for interactive manipulation of visual algorithms/backend code. Support go-gtk (default), gotk3 and shiny backends.
+* [gotk3](https://github.com/gotk3/gotk3) provides Go bindings for GTK+3 and dependent projects (including [cairo](https://github.com/gotk3/gotk3/tree/master/cairo)).
+  * Another one: [gobbi](https://github.com/pekim/gobbi) (including [cairo](https://github.com/pekim/gobbi/tree/master/lib/cairo)).
+* [gotk4](https://github.com/diamondburned/gotk4) is a GTK4 bindings generator for Go.
 
 [GXUI](https://github.com/google/gxui) is a Go cross platform UI library.
 
@@ -44,7 +43,7 @@ _(Please follow [@zigo_101](https://twitter.com/zigo_101) for updates on this pa
 
 [nuxui](https://github.com/nuxui/nuxui) is a cross-platform GUI library to make macOS, window, linux, IOS, android applications.
 
-QT:
+QT related:
 * [miqt](https://github.com/mappu/miqt) is MIT-licensed Qt bindings for Go.
 * [Qamel](https://github.com/go-qamel/qamel) is a simple QML binding for Go
 * [qt](https://github.com/therecipe/qt) allows you to write Qt applications entirely in Go and makes deploying them later very easy.
