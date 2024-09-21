@@ -32,7 +32,6 @@ _(Please follow [@zigo_101](https://twitter.com/zigo_101) for updates on this pa
 
 GTK related:
 * [go-gtk](https://github.com/mattn/go-gtk) is a Go binding for GTK2.
-  * [RenderView](https://github.com/TheGrum/renderview) is an easy Go GUI wrapper for interactive manipulation of visual algorithms/backend code. Support go-gtk (default), gotk3 and shiny backends.
 * [gotk3](https://github.com/gotk3/gotk3) provides Go bindings for GTK+3 and dependent projects (including [cairo](https://github.com/gotk3/gotk3/tree/master/cairo)).
   * Another one: [gobbi](https://github.com/pekim/gobbi) (including [cairo](https://github.com/pekim/gobbi/tree/master/lib/cairo)).
 * [gotk4](https://github.com/diamondburned/gotk4) is a GTK4 bindings generator for Go.
@@ -48,6 +47,8 @@ QT related:
 * [Qamel](https://github.com/go-qamel/qamel) is a simple QML binding for Go
 * [qt](https://github.com/therecipe/qt) allows you to write Qt applications entirely in Go and makes deploying them later very easy.
 * [qt.go](https://github.com/kitech/qt.go) is a Qt5 binding which uses FFI instead of CGO.
+
+[RenderView](https://github.com/TheGrum/renderview) is an easy Go GUI wrapper for interactive manipulation of visual algorithms/backend code. Support go-gtk (default), gotk3 and shiny backends.
 
 [shiny](https://github.com/golang/exp/tree/master/shiny) is a Go cross platform UI package.
 
