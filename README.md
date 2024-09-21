@@ -42,13 +42,13 @@ _(Please follow [@zigo_101](https://twitter.com/zigo_101) for updates on this pa
 
 [iup-go](https://github.com/gen2brain/iup-go) is a Go bindings for [IUP](https://www.tecgraf.puc-rio.br/iup/).
 
-[miqt](https://github.com/mappu/miqt) is MIT-licensed Qt bindings for Go.
-
 [nuxui](https://github.com/nuxui/nuxui) is a cross-platform GUI library to make macOS, window, linux, IOS, android applications.
 
-[qt](https://github.com/therecipe/qt) allows you to write Qt applications entirely in Go and makes deploying them later very easy.
-
-[qt.go](https://github.com/kitech/qt.go) is a Qt5 binding which uses FFI instead of CGO.
+QT:
+* [miqt](https://github.com/mappu/miqt) is MIT-licensed Qt bindings for Go.
+* [Qamel](https://github.com/go-qamel/qamel) is a simple QML binding for Go
+* [qt](https://github.com/therecipe/qt) allows you to write Qt applications entirely in Go and makes deploying them later very easy.
+* [qt.go](https://github.com/kitech/qt.go) is a Qt5 binding which uses FFI instead of CGO.
 
 [shiny](https://github.com/golang/exp/tree/master/shiny) is a Go cross platform UI package.
 
