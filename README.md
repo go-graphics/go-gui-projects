@@ -43,7 +43,7 @@ GTK related:
 [nuxui](https://github.com/nuxui/nuxui) is a cross-platform GUI library to make macOS, window, linux, IOS, android applications.
 
 QT related:
-* [miqt](https://github.com/mappu/miqt) is MIT-licensed Qt bindings for Go.
+* [miqt](https://github.com/mappu/miqt) is a MIT-licensed Qt bindings for Go.
 * [Qamel](https://github.com/go-qamel/qamel) is a simple QML binding for Go
 * [qt](https://github.com/therecipe/qt) allows you to write Qt applications entirely in Go and makes deploying them later very easy.
 * [qt.go](https://github.com/kitech/qt.go) is a Qt5 binding which uses FFI instead of CGO.
