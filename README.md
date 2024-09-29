@@ -26,8 +26,6 @@ _(Please follow [@zigo_101](https://twitter.com/zigo_101) for updates on this pa
 
 [go-sfml](https://github.com/teh-cmc/go-sfml) is a Go bindings for [SFML](https://www.sfml-dev.org/).
 
-[gothic](https://github.com/nsf/gothic) is a tcl/tk binding.
-
 [GoVCL](https://github.com/ying32/govcl) is a native GUI library based on [liblcl](https://github.com/ying32/liblcl).
 
 GTK related:
@@ -55,6 +53,10 @@ QT related:
 [Spot](https://github.com/roblillack/spot) is a reactive, cross-platform desktop GUI toolkit.
 
 [systray](https://github.com/getlantern/systray) is a cross platfrom Go library to place an icon and menu in the notification area. Tested on Windows 8, Mac OSX, Ubuntu 14.10 and Debian 7.6.
+
+Tcl/Tk related:
+* [gothic](https://github.com/nsf/gothic) is a tcl/tk binding.
+* [tk9.0](https://gitlab.com/cznic/tk9.0) is a CGo-free (use dynamic lib loading instead), cross platform GUI toolkit for Go.
 
 [trayhost](https://github.com/shurcooL/trayhost) is a cross-platform Go library to place an icon in the host operating system's taskbar.
 
