@@ -42,9 +42,9 @@ GTK related:
 
 QT related:
 * [miqt](https://github.com/mappu/miqt) is a MIT-licensed Qt bindings for Go.
-* [Qamel](https://github.com/go-qamel/qamel) is a simple QML binding for Go
-* [qt](https://github.com/therecipe/qt) allows you to write Qt applications entirely in Go and makes deploying them later very easy.
-* [qt.go](https://github.com/kitech/qt.go) is a Qt5 binding which uses FFI instead of CGO.
+* [Qamel](https://github.com/go-qamel/qamel) is a simple QML binding for Go (MIT license)
+* [qt](https://github.com/therecipe/qt) allows you to write Qt applications entirely in Go and makes deploying them later very easy (LGPL license).
+* [qt.go](https://github.com/kitech/qt.go) is a Qt5 binding which uses FFI instead of CGO (LGPL license).
 
 [RenderView](https://github.com/TheGrum/renderview) is an easy Go GUI wrapper for interactive manipulation of visual algorithms/backend code. Support go-gtk (default), gotk3 and shiny backends.
 
