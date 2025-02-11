@@ -22,8 +22,6 @@ _(Please follow [@zigo_101](https://twitter.com/zigo_101) for updates on this pa
 
 [go-mobile](https://github.com/golang/mobile) adds support for mobile platforms (Android and iOS) and provides tools to build mobile applications. (A [Go bindings for OpenGL ES 2.0 and ES 3.0](https://godoc.org/golang.org/x/mobile/gl) is included.)
 
-[go-sdl2](https://github.com/veandco/go-sdl2) is SDL2 wrapped for Go users.
-
 [go-sfml](https://github.com/teh-cmc/go-sfml) is a Go bindings for [SFML](https://www.sfml-dev.org/).
 
 [GoVCL](https://github.com/ying32/govcl) is a native GUI library based on [liblcl](https://github.com/ying32/liblcl).
@@ -47,6 +45,10 @@ QT related:
 * [qt.go](https://github.com/kitech/qt.go) is a Qt5 binding which uses FFI instead of CGO (LGPL license).
 
 [RenderView](https://github.com/TheGrum/renderview) is an easy Go GUI wrapper for interactive manipulation of visual algorithms/backend code. Support go-gtk (default), gotk3 and shiny backends.
+
+SDL related:
+* [go-sdl2](https://github.com/veandco/go-sdl2) is SDL2 wrapped for Go users.
+* [purego-sdl3](https://github.com/JupiterRider/purego-sdl3) is a cgo-free SDL3 binding.
 
 [shiny](https://github.com/golang/exp/tree/master/shiny) is a Go cross platform UI package.
 
