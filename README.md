@@ -59,6 +59,7 @@ SDL related:
 Tcl/Tk related:
 * [gothic](https://github.com/nsf/gothic) is a tcl/tk binding.
 * [tk9.0](https://gitlab.com/cznic/tk9.0) is a CGo-free (use dynamic lib loading instead), cross platform GUI toolkit for Go.
+* [tk9.0](https://pkg.go.dev/modernc.org/tk9.0) is a CGo-Free (using transpiling from C into go), cross platform GUI toolkit for Go.
 
 [trayhost](https://github.com/shurcooL/trayhost) is a cross-platform Go library to place an icon in the host operating system's taskbar.
 
