@@ -98,6 +98,8 @@ _(请关注 [@zigo_101](https://twitter.com/zigo_101)了解此页面的更新以
 
 [duit](https://github.com/mjl-/duit) 是一个纯 go、跨平台、MIT 许可的开发人员 UI 工具包。
 
+[dxui](https://github.com/dxui-org/dxui) 是一个 Go 语言声明式桌面 GUI 框架，提供可定制的界面组件和按需渲染，支持无需 cgo 的构建。
+
 [Fyne](https://github.com/fyne-io/fyne) 是一个用 Go 编写的易于使用的 UI 工具包和应用程序 API。我们使用 OpenGL（通过 go-gl 和 go-glfw 项目）来提供跨平台图形。
 
 [gi](https://github.com/goki/gi) 是 Go 中基于场景图的 2D 和 3D GUI/图形界面 (Gi)。
