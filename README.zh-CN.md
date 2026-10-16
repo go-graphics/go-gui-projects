@@ -131,6 +131,8 @@ _(请关注 [@zigo_101](https://twitter.com/zigo_101)了解此页面的更新以
 * 还有上面提到的来自 go-mobile 项目的[OpenGL ES 2.0 and ES 3.0 bindings](https://godoc.org/golang.org/x/mobile/gl)
 * 还有 [android-go](https://github.com/xlab/android-go) 项目中的 OpenGL ES 实现。
 
+[gogpu](https://github.com/gogpu) 是一个纯 Go GPU 计算生态系统 (WebGPU、2D 图形、着色器)。
+
 [vulkan](https://github.com/vulkan-go/vulkan) 为 Vulkan 提供 Go 绑定——一种低开销、跨平台的 3D 图形和计算 API。
 * 另一个: [vkngwrapper](https://github.com/vkngwrapper)
 * 还有一个: [go-vk](https://github.com/bbredesen/go-vk)

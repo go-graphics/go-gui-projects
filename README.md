@@ -142,6 +142,8 @@ core X protocol and many of the X extensions.
 * And the above mentioned [OpenGL ES 2.0 and ES 3.0 bindings](https://godoc.org/golang.org/x/mobile/gl) from the go-mobile project.
 * Also the OpenGL ES implemention in the [android-go](https://github.com/xlab/android-go) project.
 
+[gogpu](https://github.com/gogpu) is a pure Go GPU computing ecosystem (WebGPU, 2D Graphics, Shaders).
+
 [vulkan](https://github.com/vulkan-go/vulkan) provides Go bindings for Vulkan — a low-overhead, cross-platform 3D graphics and compute API.
 * Another one: [vkngwrapper](https://github.com/vkngwrapper)
 * And another one: [go-vk](https://github.com/bbredesen/go-vk)
