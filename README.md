@@ -97,6 +97,8 @@ core X protocol and many of the X extensions.
 
 [Muon](https://github.com/ImVexed/muon) is a lightweight alternative to Electron written in Golang, using [Ultralight](https://ultralig.ht/) instead of Chromium.
 
+[MyGo](https://github.com/egoist/mygo) builds desktop apps in pure Go (no cgo) with a web frontend in the system webview, which calls Go through a generated TypeScript client. It also includes a GPU-rendered Go UI toolkit for windows without a webview.
+
 [Qlovaseed](https://github.com/qlova/seed) is a lightweight alternative to Electron written in Golang. Apps are rendered as HTML pages. It doesn't bundle browsers.
 
 [Wails](https://github.com/wailsapp/wails) is a framework for building desktop applications using Go & Web Technologies.
@@ -125,6 +127,8 @@ core X protocol and many of the X extensions.
 * [giu](https://github.com/AllenDang/giu) is a GUI framework based on imgui-go. (Another similar one from the same auther, [gimu](https://github.com/AllenDang/gimu), but for nucular.)
 
 [microui-go](https://github.com/zeozeozeo/microui-go) is a Go port of the tiny immediate-mode UI library [microui](https://github.com/rxi/microui).
+
+The above mentioned [MyGo](https://github.com/egoist/mygo) also provides a GPU-rendered UI toolkit written in Go.
 
 [NanoGUI.go](https://github.com/shibukawa/nanogui-go) is a golang port of [NanoGUI](https://github.com/wjakob/nanogui).
 

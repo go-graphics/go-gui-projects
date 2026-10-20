@@ -88,6 +88,8 @@ _(请关注 [@zigo_101](https://twitter.com/zigo_101)了解此页面的更新以
 
 [Muon](https://github.com/ImVexed/muon) 是 Electron 的轻量级替代品，用 Golang 编写，使用[Ultralight](https://ultralig.ht/)而不是 Chromium。
 
+[MyGo](https://github.com/egoist/mygo) 用纯 Go（无需 cgo）构建桌面应用，前端运行在系统自带的 webview 中，并通过从 Go 代码生成的 TypeScript 客户端调用 Go。它还提供一个由 GPU 渲染的 Go UI 工具包，用于不依赖 webview 的窗口。
+
 [Qlovaseed](https://github.com/qlova/seed) 是使用 Golang 编写的 Electron 的轻量级替代品。应用程序以 HTML 页面的形式呈现。它不捆绑浏览器。
 
 [Wails](https://github.com/wailsapp/wails) 是一个使用 Go 和 Web 技术构建桌面应用程序的框架。
@@ -114,6 +116,8 @@ _(请关注 [@zigo_101](https://twitter.com/zigo_101)了解此页面的更新以
 
 [imgui-go](https://github.com/inkyblackness/imgui-go) 是 Dear ImGui 的 Go 包装器。
 * [giu](https://github.com/AllenDang/giu) 是一个基于 imgui-go 的 GUI 框架。（另一个类似的框架来自同一作者， [gimu](https://github.com/AllenDang/gimu)，但适用于 nucular。）
+
+上面提到的 [MyGo](https://github.com/egoist/mygo) 还提供一个用 Go 编写、由 GPU 渲染的 UI 工具包。
 
 [NanoGUI.go](https://github.com/shibukawa/nanogui-go) 是 [NanoGUI](https://github.com/wjakob/nanogui) 的 Go 端口
 
